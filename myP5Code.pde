@@ -1,6 +1,6 @@
 //🟢Setup Procedure - Runs Once to Set The Canvas
 void setup() {
-    size(400, 400); 
+    size(500, 400); 
     background(255,255,255,100);
 }
 
@@ -12,14 +12,18 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
 
-//tomato
-fill(255, 45, 16 )
-ellipse(305,215,210,200)
-ellipse(120,189,250,260)
+ellipse()
 
-  
+
+
+
 
 }
+
+
+
+
+
 
 //🟡Extra FUN Features Ms. Hall Added
 //Proceed with Caution (and Curiosity!)
