@@ -2,21 +2,34 @@
 void setup() {
     size(500, 400); 
     background(255,255,255,100);
-}
+//}
 
 
 //🟢Draw Procedure - Runs on Repeat
-void draw(){
+//void draw(){
   fill(255,255,255);
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
 
-ellipse()
 
 
+// body
+ellipse(260,180,230,230)
 
+// lower fin
+ellipse(137,260,60,70)
 
+//tail
+triangle(80,225,75,130,174,180)
+
+// lower fin
+triangle(143,190,112,240,163,240)
+triangle(146,294,205,283,163,240)
+
+// bottom fins 
+quad(184,270,229,291,302,266,240,259)
+quad(236,289,307,266,280,300,238,333)
 
 }
 
