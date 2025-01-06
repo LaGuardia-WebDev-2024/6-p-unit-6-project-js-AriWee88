@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://wallpapers-clan.com/wp-content/uploads/2024/11/chill-guy-background.jpg");
+  background-image: url("https://www.greenpeace.org.uk/wp-content/uploads/2024/07/GP0STOE38_Web_size-2560x0-c-default.jpg");
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -20,14 +20,14 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: rgb(178, 209, 213);
   justify-content: space-around;
   align-items: flex-start;
 }
 
 .pic{
   height: 400px;
-  width: 400px;
+  width: 500px;
   object-fit: cover;
   border-radius: 30px;
   border: 15px double #8bbcbbff;
